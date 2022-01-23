@@ -1,4 +1,8 @@
 team: panthers
 
-coach:
-- Shirley
+members : 
+- a
+- b
+- c
+
+coach: Shirley
